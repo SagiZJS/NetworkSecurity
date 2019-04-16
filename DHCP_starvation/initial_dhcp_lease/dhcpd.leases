@@ -1,0 +1,15 @@
+# The format of this file is documented in the dhcpd.leases(5) manual page.
+# This lease file was written by isc-dhcp-4.3.3
+
+server-duid "\000\001\000\001#\377vo\000\000\000\000\000\003";
+
+lease 10.10.111.100 {
+  starts 3 2019/02/20 02:23:30;
+  ends 3 2019/02/20 03:23:30;
+  cltt 3 2019/02/20 02:23:30;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:00:00:00:00:04;
+  client-hostname "kali";
+}

@@ -1,0 +1,915 @@
+# The format of this file is documented in the dhcpd.leases(5) manual page.
+# This lease file was written by isc-dhcp-4.3.3
+
+server-duid "\000\001\000\001#\377vo\000\000\000\000\000\003";
+
+lease 10.10.111.100 {
+  starts 3 2019/02/20 02:23:30;
+  ends 3 2019/02/20 03:23:30;
+  cltt 3 2019/02/20 02:23:30;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 00:00:00:00:00:04;
+  client-hostname "kali";
+}
+lease 10.10.111.101 {
+  starts 3 2019/02/20 02:27:11;
+  ends 3 2019/02/20 03:27:11;
+  cltt 3 2019/02/20 02:27:11;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 30:64:62:66:63:64;
+}
+lease 10.10.111.102 {
+  starts 3 2019/02/20 02:27:12;
+  ends 3 2019/02/20 03:27:12;
+  cltt 3 2019/02/20 02:27:12;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 36:39:61:31:33:61;
+}
+lease 10.10.111.103 {
+  starts 3 2019/02/20 02:27:13;
+  ends 3 2019/02/20 03:27:13;
+  cltt 3 2019/02/20 02:27:13;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 63:66:61:62:35:30;
+}
+lease 10.10.111.104 {
+  starts 3 2019/02/20 02:27:14;
+  ends 3 2019/02/20 03:27:14;
+  cltt 3 2019/02/20 02:27:14;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 65:66:38:65:33:63;
+}
+lease 10.10.111.105 {
+  starts 3 2019/02/20 02:27:15;
+  ends 3 2019/02/20 03:27:15;
+  cltt 3 2019/02/20 02:27:15;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 36:64:35:66:64:61;
+}
+lease 10.10.111.106 {
+  starts 3 2019/02/20 02:27:16;
+  ends 3 2019/02/20 03:27:16;
+  cltt 3 2019/02/20 02:27:16;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 62:61:32:61:33:32;
+}
+lease 10.10.111.110 {
+  starts 3 2019/02/20 02:27:21;
+  ends 3 2019/02/20 03:27:21;
+  cltt 3 2019/02/20 02:27:21;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 38:39:39:37:33:32;
+}
+lease 10.10.111.111 {
+  starts 3 2019/02/20 02:27:22;
+  ends 3 2019/02/20 03:27:22;
+  cltt 3 2019/02/20 02:27:22;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 62:66:62:62:34:33;
+}
+lease 10.10.111.114 {
+  starts 3 2019/02/20 02:27:25;
+  ends 3 2019/02/20 03:27:25;
+  cltt 3 2019/02/20 02:27:25;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 37:31:30:32:62:32;
+}
+lease 10.10.111.115 {
+  starts 3 2019/02/20 02:27:26;
+  ends 3 2019/02/20 03:27:26;
+  cltt 3 2019/02/20 02:27:26;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 61:30:66:63:61:34;
+}
+lease 10.10.111.116 {
+  starts 3 2019/02/20 02:27:27;
+  ends 3 2019/02/20 03:27:27;
+  cltt 3 2019/02/20 02:27:27;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 63:39:63:64:39:37;
+}
+lease 10.10.111.117 {
+  starts 3 2019/02/20 02:27:28;
+  ends 3 2019/02/20 03:27:28;
+  cltt 3 2019/02/20 02:27:28;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 37:31:36:63:61:63;
+}
+lease 10.10.111.118 {
+  starts 3 2019/02/20 02:27:29;
+  ends 3 2019/02/20 03:27:29;
+  cltt 3 2019/02/20 02:27:29;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 36:33:31:34:65:32;
+}
+lease 10.10.111.119 {
+  starts 3 2019/02/20 02:27:30;
+  ends 3 2019/02/20 03:27:30;
+  cltt 3 2019/02/20 02:27:30;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 38:37:63:66:66:39;
+}
+lease 10.10.111.120 {
+  starts 3 2019/02/20 02:27:31;
+  ends 3 2019/02/20 03:27:31;
+  cltt 3 2019/02/20 02:27:31;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 37:34:61:65:34:62;
+}
+lease 10.10.111.122 {
+  starts 3 2019/02/20 02:27:33;
+  ends 3 2019/02/20 03:27:33;
+  cltt 3 2019/02/20 02:27:33;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 30:34:62:61:65:32;
+}
+lease 10.10.111.125 {
+  starts 3 2019/02/20 02:27:36;
+  ends 3 2019/02/20 03:27:36;
+  cltt 3 2019/02/20 02:27:36;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 62:30:33:65:62:33;
+}
+lease 10.10.111.126 {
+  starts 3 2019/02/20 02:27:37;
+  ends 3 2019/02/20 03:27:37;
+  cltt 3 2019/02/20 02:27:37;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 36:38:32:30:33:37;
+}
+lease 10.10.111.128 {
+  starts 3 2019/02/20 02:27:39;
+  ends 3 2019/02/20 03:27:39;
+  cltt 3 2019/02/20 02:27:39;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 31:35:34:61:34:30;
+}
+lease 10.10.111.129 {
+  starts 3 2019/02/20 02:27:40;
+  ends 3 2019/02/20 03:27:40;
+  cltt 3 2019/02/20 02:27:40;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 35:37:32:36:65:66;
+}
+lease 10.10.111.130 {
+  starts 3 2019/02/20 02:27:41;
+  ends 3 2019/02/20 03:27:41;
+  cltt 3 2019/02/20 02:27:41;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 61:64:37:62:31:62;
+}
+lease 10.10.111.131 {
+  starts 3 2019/02/20 02:27:42;
+  ends 3 2019/02/20 03:27:42;
+  cltt 3 2019/02/20 02:27:42;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 34:64:61:33:66:63;
+}
+lease 10.10.111.132 {
+  starts 3 2019/02/20 02:27:43;
+  ends 3 2019/02/20 03:27:43;
+  cltt 3 2019/02/20 02:27:43;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 31:34:32:39:32:33;
+}
+lease 10.10.111.134 {
+  starts 3 2019/02/20 02:27:46;
+  ends 3 2019/02/20 03:27:46;
+  cltt 3 2019/02/20 02:27:46;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 34:66:38:62:32:30;
+}
+lease 10.10.111.135 {
+  starts 3 2019/02/20 02:27:47;
+  ends 3 2019/02/20 03:27:47;
+  cltt 3 2019/02/20 02:27:47;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 66:66:62:61:33:39;
+}
+lease 10.10.111.136 {
+  starts 3 2019/02/20 02:27:48;
+  ends 3 2019/02/20 03:27:48;
+  cltt 3 2019/02/20 02:27:48;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 37:35:36:62:31:63;
+}
+lease 10.10.111.139 {
+  starts 3 2019/02/20 02:27:51;
+  ends 3 2019/02/20 03:27:51;
+  cltt 3 2019/02/20 02:27:51;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 31:61:34:38:66:62;
+}
+lease 10.10.111.142 {
+  starts 3 2019/02/20 02:27:54;
+  ends 3 2019/02/20 03:27:54;
+  cltt 3 2019/02/20 02:27:54;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 36:30:39:30:62:39;
+}
+lease 10.10.111.144 {
+  starts 3 2019/02/20 02:27:56;
+  ends 3 2019/02/20 03:27:56;
+  cltt 3 2019/02/20 02:27:56;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 66:36:39:61:32:38;
+}
+lease 10.10.111.145 {
+  starts 3 2019/02/20 02:27:57;
+  ends 3 2019/02/20 03:27:57;
+  cltt 3 2019/02/20 02:27:57;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 31:34:33:65:36:32;
+}
+lease 10.10.111.150 {
+  starts 3 2019/02/20 02:28:02;
+  ends 3 2019/02/20 03:28:02;
+  cltt 3 2019/02/20 02:28:02;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 32:34:36:33:62:63;
+}
+lease 10.10.111.151 {
+  starts 3 2019/02/20 02:28:03;
+  ends 3 2019/02/20 03:28:03;
+  cltt 3 2019/02/20 02:28:03;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 33:30:30:65:65:36;
+}
+lease 10.10.111.152 {
+  starts 3 2019/02/20 02:28:04;
+  ends 3 2019/02/20 03:28:04;
+  cltt 3 2019/02/20 02:28:04;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 65:63:38:63:31:61;
+}
+lease 10.10.111.153 {
+  starts 3 2019/02/20 02:28:05;
+  ends 3 2019/02/20 03:28:05;
+  cltt 3 2019/02/20 02:28:05;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 66:61:66:39:33:30;
+}
+lease 10.10.111.154 {
+  starts 3 2019/02/20 02:28:07;
+  ends 3 2019/02/20 03:28:07;
+  cltt 3 2019/02/20 02:28:07;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 38:30:38:37:31:64;
+}
+lease 10.10.111.162 {
+  starts 3 2019/02/20 02:28:15;
+  ends 3 2019/02/20 03:28:15;
+  cltt 3 2019/02/20 02:28:15;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 36:34:38:38:62:65;
+}
+lease 10.10.111.163 {
+  starts 3 2019/02/20 02:28:16;
+  ends 3 2019/02/20 03:28:16;
+  cltt 3 2019/02/20 02:28:16;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 39:30:65:61:34:39;
+}
+lease 10.10.111.164 {
+  starts 3 2019/02/20 02:28:17;
+  ends 3 2019/02/20 03:28:17;
+  cltt 3 2019/02/20 02:28:17;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 62:37:38:36:33:35;
+}
+lease 10.10.111.166 {
+  starts 3 2019/02/20 02:28:19;
+  ends 3 2019/02/20 03:28:19;
+  cltt 3 2019/02/20 02:28:19;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 35:32:62:31:32:32;
+}
+lease 10.10.111.167 {
+  starts 3 2019/02/20 02:28:20;
+  ends 3 2019/02/20 03:28:20;
+  cltt 3 2019/02/20 02:28:20;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 62:61:39:31:61:30;
+}
+lease 10.10.111.168 {
+  starts 3 2019/02/20 02:28:21;
+  ends 3 2019/02/20 03:28:21;
+  cltt 3 2019/02/20 02:28:21;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 65:38:31:31:35:31;
+}
+lease 10.10.111.169 {
+  starts 3 2019/02/20 02:28:22;
+  ends 3 2019/02/20 03:28:22;
+  cltt 3 2019/02/20 02:28:22;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 66:30:63:39:36:35;
+}
+lease 10.10.111.170 {
+  starts 3 2019/02/20 02:28:23;
+  ends 3 2019/02/20 03:28:23;
+  cltt 3 2019/02/20 02:28:23;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 62:31:31:64:39:62;
+}
+lease 10.10.111.172 {
+  starts 3 2019/02/20 02:28:26;
+  ends 3 2019/02/20 03:28:26;
+  cltt 3 2019/02/20 02:28:26;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 65:37:62:64:62:62;
+}
+lease 10.10.111.173 {
+  starts 3 2019/02/20 02:28:27;
+  ends 3 2019/02/20 03:28:27;
+  cltt 3 2019/02/20 02:28:27;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 35:38:64:36:38:35;
+}
+lease 10.10.111.174 {
+  starts 3 2019/02/20 02:28:28;
+  ends 3 2019/02/20 03:28:28;
+  cltt 3 2019/02/20 02:28:28;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 37:62:62:30:66:64;
+}
+lease 10.10.111.175 {
+  starts 3 2019/02/20 02:28:29;
+  ends 3 2019/02/20 03:28:29;
+  cltt 3 2019/02/20 02:28:29;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 63:30:39:32:63:31;
+}
+lease 10.10.111.176 {
+  starts 3 2019/02/20 02:28:30;
+  ends 3 2019/02/20 03:28:30;
+  cltt 3 2019/02/20 02:28:30;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 30:32:38:33:36:36;
+}
+lease 10.10.111.178 {
+  starts 3 2019/02/20 02:28:32;
+  ends 3 2019/02/20 03:28:32;
+  cltt 3 2019/02/20 02:28:32;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 62:33:33:33:36:66;
+}
+lease 10.10.111.181 {
+  starts 3 2019/02/20 02:28:35;
+  ends 3 2019/02/20 03:28:35;
+  cltt 3 2019/02/20 02:28:35;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 62:39:34:31:30:34;
+}
+lease 10.10.111.182 {
+  starts 3 2019/02/20 02:28:36;
+  ends 3 2019/02/20 03:28:36;
+  cltt 3 2019/02/20 02:28:36;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 34:30:30:39:30:35;
+}
+lease 10.10.111.185 {
+  starts 3 2019/02/20 02:28:39;
+  ends 3 2019/02/20 03:28:39;
+  cltt 3 2019/02/20 02:28:39;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 30:66:39:34:35:33;
+}
+lease 10.10.111.186 {
+  starts 3 2019/02/20 02:28:40;
+  ends 3 2019/02/20 03:28:40;
+  cltt 3 2019/02/20 02:28:40;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 63:62:34:39:66:30;
+}
+lease 10.10.111.187 {
+  starts 3 2019/02/20 02:28:41;
+  ends 3 2019/02/20 03:28:41;
+  cltt 3 2019/02/20 02:28:41;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 62:38:38:65:37:66;
+}
+lease 10.10.111.188 {
+  starts 3 2019/02/20 02:28:43;
+  ends 3 2019/02/20 03:28:43;
+  cltt 3 2019/02/20 02:28:43;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 32:37:37:39:30:36;
+}
+lease 10.10.111.190 {
+  starts 3 2019/02/20 02:28:45;
+  ends 3 2019/02/20 03:28:45;
+  cltt 3 2019/02/20 02:28:45;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 37:36:64:64:37:39;
+}
+lease 10.10.111.194 {
+  starts 3 2019/02/20 02:28:49;
+  ends 3 2019/02/20 03:28:49;
+  cltt 3 2019/02/20 02:28:49;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 65:64:34:65:39:35;
+}
+lease 10.10.111.195 {
+  starts 3 2019/02/20 02:28:50;
+  ends 3 2019/02/20 03:28:50;
+  cltt 3 2019/02/20 02:28:50;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 61:31:32:65:38:64;
+}
+lease 10.10.111.196 {
+  starts 3 2019/02/20 02:28:51;
+  ends 3 2019/02/20 03:28:51;
+  cltt 3 2019/02/20 02:28:51;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 37:65:63:35:62:39;
+}
+lease 10.10.111.197 {
+  starts 3 2019/02/20 02:28:52;
+  ends 3 2019/02/20 03:28:52;
+  cltt 3 2019/02/20 02:28:52;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 64:61:31:34:39:38;
+}
+lease 10.10.111.198 {
+  starts 3 2019/02/20 02:28:53;
+  ends 3 2019/02/20 03:28:53;
+  cltt 3 2019/02/20 02:28:53;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 65:39:64:36:39:31;
+}
+lease 10.10.111.200 {
+  starts 3 2019/02/20 02:28:55;
+  ends 3 2019/02/20 03:28:55;
+  cltt 3 2019/02/20 02:28:55;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 63:33:37:61:61:63;
+}
+lease 10.10.111.108 {
+  starts 3 2019/02/20 02:28:57;
+  ends 3 2019/02/20 03:28:57;
+  cltt 3 2019/02/20 02:28:57;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 35:33:65:64:65:63;
+}
+lease 10.10.111.109 {
+  starts 3 2019/02/20 02:28:59;
+  ends 3 2019/02/20 03:28:59;
+  cltt 3 2019/02/20 02:28:59;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 64:36:64:61:65:32;
+}
+lease 10.10.111.113 {
+  starts 3 2019/02/20 02:29:01;
+  ends 3 2019/02/20 03:29:01;
+  cltt 3 2019/02/20 02:29:01;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 35:39:64:34:62:31;
+}
+lease 10.10.111.121 {
+  starts 3 2019/02/20 02:29:02;
+  ends 3 2019/02/20 03:29:02;
+  cltt 3 2019/02/20 02:29:02;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 66:34:36:35:33:35;
+}
+lease 10.10.111.123 {
+  starts 3 2019/02/20 02:29:03;
+  ends 3 2019/02/20 03:29:03;
+  cltt 3 2019/02/20 02:29:03;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 65:30:37:30:36:33;
+}
+lease 10.10.111.137 {
+  starts 3 2019/02/20 02:29:07;
+  ends 3 2019/02/20 03:29:07;
+  cltt 3 2019/02/20 02:29:07;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 38:33:34:66:63:39;
+}
+lease 10.10.111.138 {
+  starts 3 2019/02/20 02:29:08;
+  ends 3 2019/02/20 03:29:08;
+  cltt 3 2019/02/20 02:29:08;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 36:66:36:37:61:38;
+}
+lease 10.10.111.140 {
+  starts 3 2019/02/20 02:29:09;
+  ends 3 2019/02/20 03:29:09;
+  cltt 3 2019/02/20 02:29:09;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 39:35:31:64:65:66;
+}
+lease 10.10.111.143 {
+  starts 3 2019/02/20 02:29:11;
+  ends 3 2019/02/20 03:29:11;
+  cltt 3 2019/02/20 02:29:11;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 61:36:31:38:30:38;
+}
+lease 10.10.111.147 {
+  starts 3 2019/02/20 02:29:13;
+  ends 3 2019/02/20 03:29:13;
+  cltt 3 2019/02/20 02:29:13;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 36:65:38:35:35:66;
+}
+lease 10.10.111.156 {
+  starts 3 2019/02/20 02:29:18;
+  ends 3 2019/02/20 03:29:18;
+  cltt 3 2019/02/20 02:29:18;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 32:35:38:33:39:66;
+}
+lease 10.10.111.157 {
+  starts 3 2019/02/20 02:29:19;
+  ends 3 2019/02/20 03:29:19;
+  cltt 3 2019/02/20 02:29:19;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 30:36:39:32:30:64;
+}
+lease 10.10.111.158 {
+  starts 3 2019/02/20 02:29:20;
+  ends 3 2019/02/20 03:29:20;
+  cltt 3 2019/02/20 02:29:20;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 39:39:65:32:64:33;
+}
+lease 10.10.111.160 {
+  starts 3 2019/02/20 02:29:22;
+  ends 3 2019/02/20 03:29:22;
+  cltt 3 2019/02/20 02:29:22;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 30:65:37:65:34:33;
+}
+lease 10.10.111.165 {
+  starts 3 2019/02/20 02:29:24;
+  ends 3 2019/02/20 03:29:24;
+  cltt 3 2019/02/20 02:29:24;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 66:34:38:33:34:66;
+}
+lease 10.10.111.171 {
+  starts 3 2019/02/20 02:29:25;
+  ends 3 2019/02/20 03:29:25;
+  cltt 3 2019/02/20 02:29:25;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 37:30:64:32:35:62;
+}
+lease 10.10.111.177 {
+  starts 3 2019/02/20 02:29:26;
+  ends 3 2019/02/20 03:29:26;
+  cltt 3 2019/02/20 02:29:26;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 61:30:37:38:36:36;
+}
+lease 10.10.111.180 {
+  starts 3 2019/02/20 02:29:28;
+  ends 3 2019/02/20 03:29:28;
+  cltt 3 2019/02/20 02:29:28;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 32:35:34:36:64:65;
+}
+lease 10.10.111.193 {
+  starts 3 2019/02/20 02:29:35;
+  ends 3 2019/02/20 03:29:35;
+  cltt 3 2019/02/20 02:29:35;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 32:62:38:61:37:36;
+}
+lease 10.10.111.199 {
+  starts 3 2019/02/20 02:29:36;
+  ends 3 2019/02/20 03:29:36;
+  cltt 3 2019/02/20 02:29:36;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 64:34:61:65:30:32;
+}
+lease 10.10.111.107 {
+  starts 3 2019/02/20 02:29:37;
+  ends 3 2019/02/20 03:29:37;
+  cltt 3 2019/02/20 02:29:37;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 33:30:34:39:34:30;
+}
+lease 10.10.111.124 {
+  starts 3 2019/02/20 02:29:39;
+  ends 3 2019/02/20 03:29:39;
+  cltt 3 2019/02/20 02:29:39;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 33:32:37:61:64:38;
+}
+lease 10.10.111.127 {
+  starts 3 2019/02/20 02:29:40;
+  ends 3 2019/02/20 03:29:40;
+  cltt 3 2019/02/20 02:29:40;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 34:33:34:32:36:66;
+}
+lease 10.10.111.133 {
+  starts 3 2019/02/20 02:29:41;
+  ends 3 2019/02/20 03:29:41;
+  cltt 3 2019/02/20 02:29:41;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 66:33:66:32:63:39;
+}
+lease 10.10.111.155 {
+  starts 3 2019/02/20 02:29:46;
+  ends 3 2019/02/20 03:29:46;
+  cltt 3 2019/02/20 02:29:46;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 64:36:63:32:36:63;
+}
+lease 10.10.111.161 {
+  starts 3 2019/02/20 02:29:49;
+  ends 3 2019/02/20 03:29:49;
+  cltt 3 2019/02/20 02:29:49;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 32:38:35:30:36:30;
+}
+lease 10.10.111.179 {
+  starts 3 2019/02/20 02:29:50;
+  ends 3 2019/02/20 03:29:50;
+  cltt 3 2019/02/20 02:29:50;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 31:38:63:65:63:64;
+}
+lease 10.10.111.183 {
+  starts 3 2019/02/20 02:29:51;
+  ends 3 2019/02/20 03:29:51;
+  cltt 3 2019/02/20 02:29:51;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 64:62:31:65:38:65;
+}
+lease 10.10.111.184 {
+  starts 3 2019/02/20 02:29:52;
+  ends 3 2019/02/20 03:29:52;
+  cltt 3 2019/02/20 02:29:52;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 30:61:38:62:66:30;
+}
+lease 10.10.111.191 {
+  starts 3 2019/02/20 02:29:54;
+  ends 3 2019/02/20 03:29:54;
+  cltt 3 2019/02/20 02:29:54;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 39:32:36:65:65:30;
+}
+lease 10.10.111.192 {
+  starts 3 2019/02/20 02:29:55;
+  ends 3 2019/02/20 03:29:55;
+  cltt 3 2019/02/20 02:29:55;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 36:61:31:35:34:35;
+}
+lease 10.10.111.141 {
+  starts 3 2019/02/20 02:29:57;
+  ends 3 2019/02/20 03:29:57;
+  cltt 3 2019/02/20 02:29:57;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 61:66:33:63:34:63;
+}
+lease 10.10.111.148 {
+  starts 3 2019/02/20 02:29:59;
+  ends 3 2019/02/20 03:29:59;
+  cltt 3 2019/02/20 02:29:59;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 30:39:62:33:32:39;
+}
+lease 10.10.111.112 {
+  starts 3 2019/02/20 02:30:04;
+  ends 3 2019/02/20 03:30:04;
+  cltt 3 2019/02/20 02:30:04;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 35:38:32:38:34:30;
+}
+lease 10.10.111.146 {
+  starts 3 2019/02/20 02:30:05;
+  ends 3 2019/02/20 03:30:05;
+  cltt 3 2019/02/20 02:30:05;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 33:64:33:66:61:34;
+}
+lease 10.10.111.149 {
+  starts 3 2019/02/20 02:30:06;
+  ends 3 2019/02/20 03:30:06;
+  cltt 3 2019/02/20 02:30:06;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 35:65:64:31:32:66;
+}
+lease 10.10.111.159 {
+  starts 3 2019/02/20 02:30:07;
+  ends 3 2019/02/20 03:30:07;
+  cltt 3 2019/02/20 02:30:07;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 61:62:31:35:65:62;
+}
+lease 10.10.111.189 {
+  starts 3 2019/02/20 02:30:14;
+  ends 3 2019/02/20 03:30:14;
+  cltt 3 2019/02/20 02:30:14;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 39:35:34:32:32:32;
+}
